@@ -13,11 +13,13 @@ A principal ideia desse repositório é servir de base como guia para aqueles qu
 
 | Nome  | Descrição | Tecnologia  | Licensa | Autor |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Lost Encryptor  | Um pacote Python para criptografia e codificação ordenada  | Python  | GLP 3.0 | Matheus Magalhães |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| BrasilAPI | Vamos transformar o Brasil em uma API?  | Variadas  | MIT | Brasil API |
 
 ## Como colocar seu repositório?
 Para acrescentar seu repositório aqui basta fazer um PR e que no mesmo dia ou seguinte será analisado, assim podendo ser reprovado ou aprovado dependendo das especificações, pois ainda há regras para seu repositório estar aqui.
 
 ### Regras para participação
 Como tudo na vida precisa de regulamentação aqui não seria diferente, seu repositório precisa ter em seu README.md um explicativo de como contribuir, além de um servidor do Discord ou meio de se comunicar com o criado do repo, e de fim uma licença open source.
+
+> [!IMPORTANT]
+> Todas as informações de requisitos para colocar seu repositório aqui, estão na página da Wiki [O que seu repositório precisa para ser aprovado](https://github.com/matheusmms031/BrasilOpenSources/wiki/O-que-seu-reposit%C3%B3rio-precisa-para-ser-aprovado%3F).
