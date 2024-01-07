@@ -16,7 +16,7 @@ A principal ideia desse repositório é servir de base como guia para aqueles qu
 | [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) | Vamos transformar o Brasil em uma API?  | Variadas  | MIT | Brasil API |
 
 ## Como colocar seu repositório?
-Para acrescentar seu repositório aqui basta fazer um PR e que no mesmo dia ou seguinte será analisado, assim podendo ser reprovado ou aprovado dependendo das especificações, pois ainda há regras para seu repositório estar aqui.
+Para acrescentar seu repositório aqui basta fazer um PR acrescentando ele na tabela acima, e que no mesmo dia ou seguinte será analisado, assim podendo ser reprovado ou aprovado dependendo das especificações, pois ainda há regras para seu repositório estar aqui,
 
 ### Regras para participação
 Como tudo na vida precisa de regulamentação aqui não seria diferente, seu repositório precisa ter em seu README.md um explicativo de como contribuir, além de um servidor do Discord ou meio de se comunicar com o criado do repo, e de fim uma licença open source.
