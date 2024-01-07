@@ -13,7 +13,7 @@ A principal ideia desse repositório é servir de base como guia para aqueles qu
 
 | Nome  | Descrição | Tecnologia  | Licensa | Autor |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| BrasilAPI | Vamos transformar o Brasil em uma API?  | Variadas  | MIT | Brasil API |
+| (BrasilAPI)[https://github.com/BrasilAPI/BrasilAPI] | Vamos transformar o Brasil em uma API?  | Variadas  | MIT | Brasil API |
 
 ## Como colocar seu repositório?
 Para acrescentar seu repositório aqui basta fazer um PR e que no mesmo dia ou seguinte será analisado, assim podendo ser reprovado ou aprovado dependendo das especificações, pois ainda há regras para seu repositório estar aqui.
